@@ -23,7 +23,7 @@ see <br>https://people.sc.fsu.edu/~jburkardt/m_src/eternity/eternity.html
 <ol>
 <li>Burkardt, John; Garvie, Marcus R.;
 A linear programming approach to the Eternity Puzzle,
-Submitted, 2020.</li>
+Submitted, 2022.</li>
 
 <li>Garvie, Marcus R.; Burkardt, John;
 A new mathematical model for tiling finite regions of the plane with polyominoes,
